@@ -768,3 +768,5 @@ mario_database=#
 |            1 |         3 |            1 | Mario  | Mushroom Kingdom | Red            |         3 | duck   |
 +--------------+-----------+--------------+--------+------------------+----------------+-----------+--------+
 (21 rows)
+
+  *.sql linguist-language=SQL
