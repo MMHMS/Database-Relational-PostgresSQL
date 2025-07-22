@@ -1,1 +1,7 @@
+# Força arquivos SQL a serem contados corretamente
 *.sql linguist-language=SQL
+*.psql linguist-language=SQL
+*.ddl linguist-language=SQL
+
+# Ignora dumps e backups para não contaminar a análise
+dump/* linguist-generated
